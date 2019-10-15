@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Test</title>
+      <link href="/2019/10/15/test/"/>
+      <url>/2019/10/15/test/</url>
+      
+        <content type="html"><![CDATA[<p>用于测试文档添加示例</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/10/12/hello-world/"/>
       <url>/2019/10/12/hello-world/</url>
