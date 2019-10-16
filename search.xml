@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Test</title>
+      <link href="/2019/10/15/test/"/>
+      <url>/2019/10/15/test/</url>
+      
+        <content type="html"><![CDATA[<p>用于测试文档添加示例</p><h2 id="文档添加"><a href="#文档添加" class="headerlink" title="文档添加"></a>文档添加</h2><p>title: Test  #文章标题<br>date: 2019-10-15 11:23:56 #发布时间<br>author: 高哲 #（默认根 _config.yml 中的 author）文章作者<br>img: #（默认featureImages 中的某个值）文章特征图，推荐使用图床(腾讯云、七牛云、又拍云等)来做图片的路径.如: <a href="http://xxx.com/xxx.jpg" target="_blank" rel="noopener">http://xxx.com/xxx.jpg</a><br>top: true #（默认true）文章是否置顶<br>cover: true #（默认false）文章是否需要加入到首页轮播封面中<br>coverImg: /medias/banner/1.jpg  #（无默认值）首页轮播封面需要显示的图片路径<br>password: #（无默认值）文章阅读密码，该值必须是用 SHA256 加密后的密码<br>toc: #（默认true）是否开启 TOC，可以针对某篇文章单独关闭 TOC 的功能。前提是在主题的 config.yml 中激活了 toc 选项<br>mathjax: #（默认false）是否开启数学公式支持 ，本文章是否开启 mathjax，且需要在主题的 _config.yml 文件中也需要开启才行<br>summary: #（无默认值）文章摘要<br>categories: #（无默认值）文章分类<br>tags: #（无默认值）文章标签</p><ul><li>Test<br>reprintPolicy: #(默认cc_by)文章转载规则， 可以是 cc_by, cc_by_nd, cc_by_sa, cc_by_nc, cc_by_nc_nd, cc_by_nc_sa, cc0, noreprint 或 pay 中的一个</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/10/12/hello-world/"/>
       <url>/2019/10/12/hello-world/</url>

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>高哲の博客</title>
   
-  
+  <subtitle>视频设计|动画设计</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://halgao.github.io/"/>
-  <updated>2019-10-12T02:17:41.029Z</updated>
+  <updated>2019-10-16T02:33:25.845Z</updated>
   <id>https://halgao.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://halgao.github.io/2019/10/15/test/"/>
+    <id>https://halgao.github.io/2019/10/15/test/</id>
+    <published>2019-10-15T03:23:56.000Z</published>
+    <updated>2019-10-16T02:33:25.845Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;用于测试文档添加示例&lt;/p&gt;
+&lt;h2 id=&quot;文档添加&quot;&gt;&lt;a href=&quot;#文档添加&quot; class=&quot;headerlink&quot; title=&quot;文档添加&quot;&gt;&lt;/a&gt;文档添加&lt;/h2&gt;&lt;p&gt;title: Test  #文章标题&lt;br&gt;date: 2019-10-15
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
